@@ -8,10 +8,9 @@ This script will scrape together jobs from Indeed.com and create Trello cards in
 	- BeautifulSoup4
 	- [py-trello](https://github.com/sarumont/py-trello)
 
-```
-pip3 install beautifulsoup4
-pip3 install py-trello
-```
+
+` pip3 install beautifulsoup4
+` pip3 install py-trello
 
 	- Trello Account with active boards
 		- Trello API key can be found [here](https://trello.com/app-key)
